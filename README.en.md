@@ -69,10 +69,3 @@ The current distribution is for **64-bit Windows**. Linux and other platforms re
 
 The screenshots show the actual application from the published package, with the interface in Spanish. This release includes checks covering conversion, viewports, STEP export and languages; the published ZIP's checksum is provided in **SHA256SUMS.txt**.
 
-## Downloads and licences
-
-This repository contains the project presentation and its **distribution releases**. Mesh2Solid's source code is not published here. To run the application, download the **portable ZIP** attached to the release; GitHub's automatically generated “Source code” archives do not contain the application.
-
-Notices and licences for bundled dependencies are included in **Release/app/licenses** inside the package.
-
-*Vibecoded by Qualith.*
