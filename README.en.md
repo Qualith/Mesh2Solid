@@ -69,3 +69,8 @@ The current distribution is for **64-bit Windows**. Linux and other platforms re
 
 The screenshots show the actual application from the published package, with the interface in Spanish. This release includes checks covering conversion, viewports, STEP export and languages; the published ZIP's checksum is provided in **SHA256SUMS.txt**.
 
+## OCCT source
+
+The [official source archive `occt-7.9.3-source.tar.gz`](https://github.com/Qualith/Mesh2Solid/raw/refs/heads/main/third-party/occt/occt-7.9.3-source.tar.gz) is available in this repository alongside the [rebuild and licensing instructions](third-party/occt/README.md).
+
+This dependency's source is provided separately from the portable ZIP. You do not need to download it to run Mesh2Solid. Licences for bundled dependencies remain in `Release/app/licenses` inside the package.

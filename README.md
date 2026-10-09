@@ -69,3 +69,8 @@ La distribución actual es **Windows de 64 bits**. Linux y otras plataformas que
 
 Las capturas corresponden a la aplicación real del paquete publicado. Esta entrega cuenta con comprobaciones de conversión, visor, exportación STEP e idiomas; el ZIP publicado tiene su checksum en **SHA256SUMS.txt**.
 
+## Fuente de OCCT
+
+El [archivo fuente oficial `occt-7.9.3-source.tar.gz`](https://github.com/Qualith/Mesh2Solid/raw/refs/heads/main/third-party/occt/occt-7.9.3-source.tar.gz) está disponible en este repositorio junto con las [instrucciones de recompilación y licencia](third-party/occt/README.md).
+
+La fuente de esta dependencia se ofrece por separado del ZIP portable. No hace falta descargarla para ejecutar Mesh2Solid. Las licencias de las dependencias incluidas permanecen en `Release/app/licenses` dentro del paquete.
