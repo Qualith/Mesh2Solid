@@ -1,5 +1,7 @@
 # Mesh2Solid
 
+**Español** | [English](README.en.md)
+
 **De una malla 3D a un sólido CAD validado, con perfiles SVG para piezas tipo Token.**
 
 Mesh2Solid es una aplicación de escritorio que permite abrir modelos **STL, OBJ y 3MF**, analizar su geometría y reconstruir sólidos dentro de las familias de formas admitidas. Está orientada a dos usos: **tokens y piezas de espesor escalonado** con relieves, rebajes o agujeros, y **piezas mecánicas** con superficies reconocibles.
