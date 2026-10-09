@@ -69,10 +69,3 @@ La distribución actual es **Windows de 64 bits**. Linux y otras plataformas que
 
 Las capturas corresponden a la aplicación real del paquete publicado. Esta entrega cuenta con comprobaciones de conversión, visor, exportación STEP e idiomas; el ZIP publicado tiene su checksum en **SHA256SUMS.txt**.
 
-## Descarga y licencias
-
-Este repositorio contiene la presentación del proyecto y sus **releases de distribución**. El código fuente de Mesh2Solid no se publica aquí. Para ejecutar la aplicación, descarga el **ZIP portable** de los adjuntos de la release; los archivos automáticos «Source code» de GitHub no contienen la aplicación.
-
-Los avisos y licencias de las dependencias incluidas se encuentran en **Release/app/licenses** dentro del paquete.
-
-*Vibecoded by Qualith.*
