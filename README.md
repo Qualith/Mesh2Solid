@@ -8,7 +8,7 @@ Mesh2Solid es una aplicación de escritorio que permite abrir modelos **STL, OBJ
 
 El resultado se puede exportar a **STEP** para continuar trabajando en un programa CAD. En el modo Token también se pueden obtener **perfiles SVG a escala real** y generar piezas de relleno independientes para impresión multicolor.
 
-**[Descargar Mesh2Solid 0.1.7 para Windows x64](https://github.com/Qualith/Mesh2Solid/releases/tag/v0.1.7)** · Portable · Interfaz en español e inglés
+**[Descargar Mesh2Solid 0.1.17 para Windows x64](https://github.com/Qualith/Mesh2Solid/releases/tag/v0.1.17)** · Portable · Interfaz en español e inglés
 
 ![Comparación de la malla original y el sólido reconstruido en Mesh2Solid](images/comparacion-malla-solido.png)
 
@@ -47,7 +47,7 @@ La aceptación depende de la geometría y de la tolerancia indicada. Cuando una 
 
 ## Empezar en unos minutos
 
-1. Abre la [release más reciente](https://github.com/Qualith/Mesh2Solid/releases/latest) y descarga **Mesh2Solid-0.1.7-Windows-x64.zip**.
+1. Abre la [release más reciente](https://github.com/Qualith/Mesh2Solid/releases/latest) y descarga **Mesh2Solid-0.1.17-Windows-x64.zip**.
 2. Extrae el ZIP completo y abre **Release/Mesh2Solid.exe**. Conserva la subcarpeta **app** junto al ejecutable: contiene el programa, sus dependencias y las licencias.
 3. Pulsa **Abrir malla…** o arrastra un STL, OBJ o 3MF a la ventana.
 4. Revisa las dimensiones, las unidades y la tolerancia; pulsa **Analizar** y después **Reconstruir**.
